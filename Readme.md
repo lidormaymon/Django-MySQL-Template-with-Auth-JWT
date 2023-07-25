@@ -2,7 +2,7 @@
 
 This is a full template of Django, working with **MySQL**, and a full functional authentication.
 
-**IMPORTANT!!**
+**IMPORTANT!!**<br>
 All the lines in comment in `models.py`, `serializer.py`, and `views.py` stand as an example of how to make your own model, its serializer, and its entry points.
 
 ## Instructions:
